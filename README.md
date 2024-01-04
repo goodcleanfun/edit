@@ -1,2 +1,2 @@
-# edit_distance
-Linear-space Damerau-Levenshtein edit distance and backtracking for edit operation sequences
+# string_edits
+Linear-space Damerau-Levenshtein edit distance with linear-space edit operation sequences using Hirschberg's algorithm
